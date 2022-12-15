@@ -1,0 +1,8 @@
+// First, install Truffle using npm:
+$ npm install -g truffle
+
+// Next, create a new Truffle project:
+$ truffle init
+
+// Finally, run the test using Truffle:
+$ truffle test
